@@ -1,4 +1,5 @@
 ﻿/*
+1 - 
 using System.Globalization;
 
 Console.WriteLine("Input: ");
@@ -7,6 +8,8 @@ DateTime date = DateTime.ParseExact(input, "d-M-yyyy", CultureInfo.InvariantCult
 Console.WriteLine(date.DayOfWeek);
 */
 
+/*
+ * 2 - 
 string[] words = Console.ReadLine().Split(' ');
 Random r = new Random();
 int random = r.Next(words.Length);
@@ -19,3 +22,5 @@ for(int pos1 = 0; pos1 < words.Length; pos1++)
     words[pos2] = tmp;
 }
 Console.WriteLine(string.Join(Environment.NewLine, words));
+*/
+

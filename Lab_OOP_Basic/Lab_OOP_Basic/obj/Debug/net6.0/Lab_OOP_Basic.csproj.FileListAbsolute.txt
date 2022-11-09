@@ -1,0 +1,15 @@
+E:\School\AdvancedProgramming\Code\Lab_OOP_Basic\Lab_OOP_Basic\bin\Debug\net6.0\Lab_OOP_Basic.exe
+E:\School\AdvancedProgramming\Code\Lab_OOP_Basic\Lab_OOP_Basic\bin\Debug\net6.0\Lab_OOP_Basic.deps.json
+E:\School\AdvancedProgramming\Code\Lab_OOP_Basic\Lab_OOP_Basic\bin\Debug\net6.0\Lab_OOP_Basic.runtimeconfig.json
+E:\School\AdvancedProgramming\Code\Lab_OOP_Basic\Lab_OOP_Basic\bin\Debug\net6.0\Lab_OOP_Basic.dll
+E:\School\AdvancedProgramming\Code\Lab_OOP_Basic\Lab_OOP_Basic\bin\Debug\net6.0\Lab_OOP_Basic.pdb
+E:\School\AdvancedProgramming\Code\Lab_OOP_Basic\Lab_OOP_Basic\obj\Debug\net6.0\Lab_OOP_Basic.csproj.AssemblyReference.cache
+E:\School\AdvancedProgramming\Code\Lab_OOP_Basic\Lab_OOP_Basic\obj\Debug\net6.0\Lab_OOP_Basic.GeneratedMSBuildEditorConfig.editorconfig
+E:\School\AdvancedProgramming\Code\Lab_OOP_Basic\Lab_OOP_Basic\obj\Debug\net6.0\Lab_OOP_Basic.AssemblyInfoInputs.cache
+E:\School\AdvancedProgramming\Code\Lab_OOP_Basic\Lab_OOP_Basic\obj\Debug\net6.0\Lab_OOP_Basic.AssemblyInfo.cs
+E:\School\AdvancedProgramming\Code\Lab_OOP_Basic\Lab_OOP_Basic\obj\Debug\net6.0\Lab_OOP_Basic.csproj.CoreCompileInputs.cache
+E:\School\AdvancedProgramming\Code\Lab_OOP_Basic\Lab_OOP_Basic\obj\Debug\net6.0\Lab_OOP_Basic.dll
+E:\School\AdvancedProgramming\Code\Lab_OOP_Basic\Lab_OOP_Basic\obj\Debug\net6.0\refint\Lab_OOP_Basic.dll
+E:\School\AdvancedProgramming\Code\Lab_OOP_Basic\Lab_OOP_Basic\obj\Debug\net6.0\Lab_OOP_Basic.pdb
+E:\School\AdvancedProgramming\Code\Lab_OOP_Basic\Lab_OOP_Basic\obj\Debug\net6.0\Lab_OOP_Basic.genruntimeconfig.cache
+E:\School\AdvancedProgramming\Code\Lab_OOP_Basic\Lab_OOP_Basic\obj\Debug\net6.0\ref\Lab_OOP_Basic.dll
