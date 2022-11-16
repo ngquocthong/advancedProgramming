@@ -1,0 +1,15 @@
+E:\School\AdvancedProgramming\Code\Demo\Demo\bin\Debug\net6.0\Demo.exe
+E:\School\AdvancedProgramming\Code\Demo\Demo\bin\Debug\net6.0\Demo.deps.json
+E:\School\AdvancedProgramming\Code\Demo\Demo\bin\Debug\net6.0\Demo.runtimeconfig.json
+E:\School\AdvancedProgramming\Code\Demo\Demo\bin\Debug\net6.0\Demo.dll
+E:\School\AdvancedProgramming\Code\Demo\Demo\bin\Debug\net6.0\Demo.pdb
+E:\School\AdvancedProgramming\Code\Demo\Demo\obj\Debug\net6.0\Demo.csproj.AssemblyReference.cache
+E:\School\AdvancedProgramming\Code\Demo\Demo\obj\Debug\net6.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+E:\School\AdvancedProgramming\Code\Demo\Demo\obj\Debug\net6.0\Demo.AssemblyInfoInputs.cache
+E:\School\AdvancedProgramming\Code\Demo\Demo\obj\Debug\net6.0\Demo.AssemblyInfo.cs
+E:\School\AdvancedProgramming\Code\Demo\Demo\obj\Debug\net6.0\Demo.csproj.CoreCompileInputs.cache
+E:\School\AdvancedProgramming\Code\Demo\Demo\obj\Debug\net6.0\Demo.dll
+E:\School\AdvancedProgramming\Code\Demo\Demo\obj\Debug\net6.0\refint\Demo.dll
+E:\School\AdvancedProgramming\Code\Demo\Demo\obj\Debug\net6.0\Demo.pdb
+E:\School\AdvancedProgramming\Code\Demo\Demo\obj\Debug\net6.0\Demo.genruntimeconfig.cache
+E:\School\AdvancedProgramming\Code\Demo\Demo\obj\Debug\net6.0\ref\Demo.dll

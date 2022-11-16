@@ -1,0 +1,15 @@
+E:\School\AdvancedProgramming\Code\Demo\Inheritance\bin\Debug\net6.0\Inheritance.exe
+E:\School\AdvancedProgramming\Code\Demo\Inheritance\bin\Debug\net6.0\Inheritance.deps.json
+E:\School\AdvancedProgramming\Code\Demo\Inheritance\bin\Debug\net6.0\Inheritance.runtimeconfig.json
+E:\School\AdvancedProgramming\Code\Demo\Inheritance\bin\Debug\net6.0\Inheritance.dll
+E:\School\AdvancedProgramming\Code\Demo\Inheritance\bin\Debug\net6.0\Inheritance.pdb
+E:\School\AdvancedProgramming\Code\Demo\Inheritance\obj\Debug\net6.0\Inheritance.csproj.AssemblyReference.cache
+E:\School\AdvancedProgramming\Code\Demo\Inheritance\obj\Debug\net6.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+E:\School\AdvancedProgramming\Code\Demo\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfoInputs.cache
+E:\School\AdvancedProgramming\Code\Demo\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfo.cs
+E:\School\AdvancedProgramming\Code\Demo\Inheritance\obj\Debug\net6.0\Inheritance.csproj.CoreCompileInputs.cache
+E:\School\AdvancedProgramming\Code\Demo\Inheritance\obj\Debug\net6.0\Inheritance.dll
+E:\School\AdvancedProgramming\Code\Demo\Inheritance\obj\Debug\net6.0\refint\Inheritance.dll
+E:\School\AdvancedProgramming\Code\Demo\Inheritance\obj\Debug\net6.0\Inheritance.pdb
+E:\School\AdvancedProgramming\Code\Demo\Inheritance\obj\Debug\net6.0\Inheritance.genruntimeconfig.cache
+E:\School\AdvancedProgramming\Code\Demo\Inheritance\obj\Debug\net6.0\ref\Inheritance.dll
